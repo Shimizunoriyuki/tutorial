@@ -1,0 +1,5 @@
+
+Json　Post
+https://blogs.msdn.microsoft.com/japan_platform_sdkwindows_sdk_support_team_blog/2013/12/09/httpclient-json-post/
+Json⇔C#オブジェクト変換
+http://blog.clock-up.jp/entry/2016/08/26/csharp-json
